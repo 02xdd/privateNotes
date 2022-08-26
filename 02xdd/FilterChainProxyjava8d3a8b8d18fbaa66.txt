@@ -1,1 +1,1 @@
-{"version":"8d3a8b8d18fbaa66","fileName":"FilterChainProxy.java","fileSimpleName":"FilterChainProxy","fileType":"java","notes":{"174":"过滤器入口 对吧"}}
+{"version":"8d3a8b8d18fbaa66","fileName":"FilterChainProxy.java","fileSimpleName":"FilterChainProxy","fileType":"java","notes":{"228":"返回与提供的URL匹配的第一个过滤器链。 形参: 请求-匹配的请求 返回值: 定义过滤器链的有序过滤器数组","174":"过滤器入口 对吧"}}
