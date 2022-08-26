@@ -1,1 +1,1 @@
-{"version":"a3ecc6372224a83b","fileName":"XddAuthApplication.java","fileSimpleName":"XddAuthApplication","fileType":"java","notes":{"10":"朱大力牛逼","11":"你大爷的"}}
+{"version":"a3ecc6372224a83b","fileName":"XddAuthApplication.java","fileSimpleName":"XddAuthApplication","fileType":"java","notes":{"10":"朱大力牛逼","11":"你大爷的","12":"虽然成功了 但是报错?"}}
