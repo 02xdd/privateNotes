@@ -1,1 +1,1 @@
-{"version":"a8fd2f267da8379b","fileName":"WebSecurityConfiguration.java","fileSimpleName":"WebSecurityConfiguration","fileType":"java","notes":{"94":"创建spring security 过滤器链"}}
+{"version":"a8fd2f267da8379b","fileName":"WebSecurityConfiguration.java","fileSimpleName":"WebSecurityConfiguration","fileType":"java","notes":{"97":"判断是否有配置","103":"调用build方法创建过滤器","153":"创建一个\nWebSecurityConfigurerAdapter","155":"将配置添加给websecurity","157":"将当前的webSecurityConfigurers 赋值","94":"创建spring security 过滤器链"}}
