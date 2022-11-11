@@ -1,0 +1,1 @@
+{"version":"7572f6b1291b6853","fileName":"AbstractAuthenticationProcessingFilter.java","fileSimpleName":"AbstractAuthenticationProcessingFilter","fileType":"java","notes":{"225":"进行身份认证 返回认证信息","226":"进行身份认证","227":"如果空 说未生成认证信息  直接返回","231":"http session会话机制   不用的话可以忽略了","221":"判断请求是否需要进行验证"}}

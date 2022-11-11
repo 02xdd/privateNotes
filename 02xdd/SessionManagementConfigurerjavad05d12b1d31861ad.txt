@@ -1,0 +1,1 @@
+{"version":"d05d12b1d31861ad","fileName":"SessionManagementConfigurer.java","fileSimpleName":"SessionManagementConfigurer","fileType":"java","notes":{"325":"判断是不是无状态的"}}
