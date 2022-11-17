@@ -1,0 +1,1 @@
+{"version":"0f65b1e7c01663fc","fileName":"SessionManagementFilter.java","fileSimpleName":"SessionManagementFilter","fileType":"java","notes":{"99":"拒绝验证 兵抛出异常 验证失败","89":"看看找到上下文了没 如果没找到就。。。","91":"取出认证对象","107":"保存上下文","124":"找到上下文放行","94":"认证对象不为空 并且不是匿名用户对象","110":"为空或匿名用户","95":"尝试进行身份验证"}}

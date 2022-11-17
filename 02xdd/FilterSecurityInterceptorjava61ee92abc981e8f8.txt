@@ -1,0 +1,1 @@
+{"version":"61ee92abc981e8f8","fileName":"FilterSecurityInterceptor.java","fileSimpleName":"FilterSecurityInterceptor","fileType":"java","notes":{"82":"元数据","103":"过滤器已经应用到此请求和用户希望我们观察","104":"每个请求处理一次，所以不要重新进行安全检查","137":"是否多次处理 还是只处理一次","121":"是个应用，没啥解释的","108":"第一次调用此请求，因此执行安全检查","45":"这里是最关键的地方吧  最终的权限是否能通过还不是我说了算"}}

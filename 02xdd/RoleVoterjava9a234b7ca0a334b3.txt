@@ -1,0 +1,1 @@
+{"version":"9a234b7ca0a334b3","fileName":"RoleVoter.java","fileSimpleName":"RoleVoter","fileType":"java","notes":{"97":"1","104":"提取权限","89":"0","92":"默认TRUE","93":"-1","94":"找到相匹配的权限就是同意了"}}
